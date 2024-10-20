@@ -41,7 +41,6 @@ head{
 }
 .logo{
     color: orange;
-    display: inline-block;
     float: left;
     font-size: 25px;
     font-family: Arial;
